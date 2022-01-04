@@ -1,5 +1,6 @@
-### Hi there 👋
+## Hi there, I am Indra, an aspiring Data Scientist👋
 
+![gif](https://giphy.com/gifs/pALw8LdftuqAw)
 <!--
 **indrayantom/indrayantom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
